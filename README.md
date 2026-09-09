@@ -94,7 +94,7 @@ Slicers allow users to filter the dashboard by:
 
 ## Dashboard Preview
 
-![Dashboard](HR Data Analysis/image/Dashboard.png)
+![Dashboard](HR%20Data%20Analysis/image/Dashboard.png)
 
 ## Key Insights
 
