@@ -94,7 +94,7 @@ Slicers allow users to filter the dashboard by:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/dashboard.png)
 
 ## Key Insights
 
